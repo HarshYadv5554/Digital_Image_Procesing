@@ -1,3 +1,4 @@
+% This code provides a brief intro to BitPlane Slicing 
 clc;
 clear all;
 close all;
